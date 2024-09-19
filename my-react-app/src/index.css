@@ -1,0 +1,38 @@
+
+
+
+.centered-list {
+  list-style-position: inside;
+  padding-left: 20px; 
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+ justify-content: center;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.input-container {
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: calc(100% - 60px);
+  margin-right: 5px;
+  font-size: 14px;
+}
+
